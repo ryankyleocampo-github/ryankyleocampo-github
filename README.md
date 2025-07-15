@@ -1,55 +1,51 @@
-### Welcome to Ryan Kyle's (RK) GitHub Profile! 👋
+# Hi there, I'm Ryan Kyle (RK) 👋
+
+**Full-Stack Web and Software Developer**
 
 ---
 
-🌐 **Digital Marketing Whiz & Web Development Guru** <br> <br> 
-<p>Are you looking for a blend of tech expertise and creative genius? You've landed in the right place! I'm Ryan Kyle, your go-to digital maverick for cutting-edge web development and innovative digital marketing.</p>
----
+## 🚀 About Me
 
-🔭 **What I'm Up To:**
-- **Versatile Tech Skills:** From seamless web development with WordPress and custom coding (HTML, CSS, JavaScript) to adept digital marketing strategies (SEO, email campaigns, social media).
-- **Proven Track Record:** Extensive experience in IT helpdesk, tech support, and a portfolio filled with diverse and successful projects.
-- **Continuous Learner:** Always on the forefront, updating my skills with the latest tech trends and industry best practices.
-
-💬 **Ask Me About:**
-- Web Development (WordPress, HTML, CSS, JavaScript)
-- Programming (Python)
-- Digital Marketing (SEO, Email Campaigns, Social Media Management)
-- Video Editing and Graphic Design
-- IT Helpdesk and Technical Support
-
-📫 **How to Reach Me:**
-- **Connect with Me:** Drop me an email at [ryankyle@imnotrk.com](mailto:ryankyle@imnotrk.com) or connect on [LinkedIn](https://www.linkedin.com/in/rkocampo/).
-- **Explore My GitHub:** Dive into my repositories here and discover the technical depth of my projects.
-- **Let’s Collaborate:** Reach out to discuss your next project or idea – I’m here to bring it to life!
-
-📁 **Portfolio:**
-- Visit [imnotrk.com](https://www.imnotrk.com) to see my latest projects and achievements.
-
-🎯 **Professional Highlights:**
-- Over 5 years of experience in IT Helpdesk and Tech Support.
-- Proficient in Web Development & Design with WordPress, Elementor, and custom coding.
-- Dynamic Digital Marketer leveraging tools like Mailchimp, Ocoya, and Google Analytics.
-- Managed over 104 projects and served 24 clients, dedicating over 17k hours to professional work.
+As the founder of RekreatePH—a Manila-based digital marketing agency with a tech twist and AI Automationns—I architect websites, web apps, and custom software that make brands pop. With 3+ years experience, I fuse clean code, AI automations, and seamless API integrations. 
 
 ---
 
-👨‍💻 **My GitHub Repositories:**
-Here you can find a selection of my coding projects, showcasing my technical skills and attention to detail in software development.
+## 🔧 Core Skills
+
+* **Front-End**: JavaScript · TypeScript · React · Vue.js · HTML5 · CSS3 · Tailwind CSS
+* **Back-End**: Node.js · Express · Python · Django · RESTful APIs · GraphQL
+* **AI & Automation**: OpenAI API · Zapier Workflows · Cron Jobs · Custom Scripting
+* **Databases**: PostgreSQL · MongoDB · Redis
+* **Tooling & Deployment**: Git · Docker · CI/CD · AWS · Netlify · Vercel
+* **Testing & QA**: Jest · Mocha · Cypress
 
 ---
 
-<!--
-**ryankyleocampo-github/ryankyleocampo-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Key Projects & Impact
 
-Here are some ideas to get you started:
+* **E-Commerce Platform**: Architected and deployed a React & Node.js store handling 1,000+ daily users, with real-time inventory updates and Stripe integration.
+* **Automation Pipeline**: Built AI-driven email and social-media workflows using OpenAI API and Zapier, boosting client engagement by 40%.
+* **Dashboard App**: Delivered a Vue.js + Django analytics dashboard featuring interactive charts and role-based access.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Love Building
+
+* AI-powered chatbots and automation scripts
+* Responsive websites and landing pages
+* Single-page applications (SPAs) and PWAs
+* Custom APIs, microservices, and integrations
+* Internal tools that save teams hours each week
+
+---
+
+## 📫 Get In Touch
+
+* 📧 [hello@rekreateph.com](mailto:hello@rekreateph.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/rkocampo/)
+* 💼 [Website](https://rekreateph.com)
+
+
+---
+
+Let’s chat and turn ideas into reality! 🚀
