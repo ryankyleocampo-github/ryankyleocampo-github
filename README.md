@@ -1,16 +1,16 @@
-# Hi there, I'm Ryan Kyle (RK) 👋
+# Hi there, I'm Ryan Kyle (RK) 
 
 **Full-Stack Web and Software Developer**
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 As the founder of RekreatePH—a Manila-based digital marketing agency with a tech twist and AI Automationns—I architect websites, web apps, and custom software that make brands pop. With 3+ years experience, I fuse clean code, AI automations, and seamless API integrations. 
 
 ---
 
-## 🔧 Core Skills
+##  Core Skills
 
 * **Front-End**: JavaScript · TypeScript · React · Vue.js · HTML5 · CSS3 · Tailwind CSS
 * **Back-End**: Node.js · Express · Python · Django · RESTful APIs · GraphQL
@@ -21,7 +21,7 @@ As the founder of RekreatePH—a Manila-based digital marketing agency with a te
 
 ---
 
-## 📈 Key Projects & Impact
+##  Key Projects & Impact
 
 * **E-Commerce Platform**: Architected and deployed a React & Node.js store handling 1,000+ daily users, with real-time inventory updates and Stripe integration.
 * **Automation Pipeline**: Built AI-driven email and social-media workflows using OpenAI API and Zapier, boosting client engagement by 40%.
@@ -29,7 +29,7 @@ As the founder of RekreatePH—a Manila-based digital marketing agency with a te
 
 ---
 
-## 💡 What I Love Building
+##  What I Love Building
 
 * AI-powered chatbots and automation scripts
 * Responsive websites and landing pages
@@ -39,7 +39,7 @@ As the founder of RekreatePH—a Manila-based digital marketing agency with a te
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 * 📧 [hello@rekreateph.com](mailto:hello@rekreateph.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/rkocampo/)
@@ -48,4 +48,4 @@ As the founder of RekreatePH—a Manila-based digital marketing agency with a te
 
 ---
 
-Let’s chat and turn ideas into reality! 🚀
+Let’s chat and turn ideas into reality! 
