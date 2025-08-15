@@ -1,12 +1,12 @@
 # Hi there, I'm Ryan Kyle (RK) 
 
-**Full-Stack Web and Software Developer**
+**Web and Software Developer | Digital Marketer**
 
 ---
 
 ##  About Me
 
-As the founder of RekreatePH—a Manila-based digital marketing agency with a tech twist and AI Automationns—I architect websites, web apps, and custom software that make brands pop. With 3+ years experience, I fuse clean code, AI automations, and seamless API integrations. 
+As the founder of Rekreate Digital—a Manila-based digital marketing agency with a tech twist and AI Automationns—I architect websites, web apps, and custom software that make brands pop. With 3+ years experience, I fuse clean code, AI automations, and seamless API integrations. 
 
 ---
 
