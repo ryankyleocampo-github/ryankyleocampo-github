@@ -21,14 +21,6 @@ As the founder of Rekreate Digital—a Manila-based digital marketing agency wit
 
 ---
 
-##  Key Projects & Impact
-
-* **E-Commerce Platform**: Architected and deployed a React & Node.js store handling 1,000+ daily users, with real-time inventory updates and Stripe integration.
-* **Automation Pipeline**: Built AI-driven email and social-media workflows using OpenAI API and Zapier, boosting client engagement by 40%.
-* **Dashboard App**: Delivered a Vue.js + Django analytics dashboard featuring interactive charts and role-based access.
-
----
-
 ##  What I Love Building
 
 * AI-powered chatbots and automation scripts
@@ -41,9 +33,9 @@ As the founder of Rekreate Digital—a Manila-based digital marketing agency wit
 
 ##  Get In Touch
 
-* 📧 [hello@rekreateph.com](mailto:hello@rekreateph.com)
+* 📧 [hello@rekreateph.com](mailto:hello@rekreatedigital.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/rkocampo/)
-* 💼 [Website](https://rekreateph.com)
+* 💼 [Website](https://rekreatedigital.com)
 
 
 ---
