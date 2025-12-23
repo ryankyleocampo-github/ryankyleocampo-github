@@ -33,7 +33,7 @@ As the founder of Rekreate Digital—a Manila-based digital marketing agency wit
 
 ##  Get In Touch
 
-* 📧 [hello@rekreateph.com](mailto:hello@rekreatedigital.com)
+* 📧 [hello@rekreatedigital.com](mailto:hello@rekreatedigital.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/rkocampo/)
 * 💼 [Website](https://rekreatedigital.com)
 
